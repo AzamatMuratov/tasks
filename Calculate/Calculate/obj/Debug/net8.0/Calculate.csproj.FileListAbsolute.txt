@@ -1,0 +1,14 @@
+/Users/user/RiderProjects/Calculate/Calculate/bin/Debug/net8.0/Calculate
+/Users/user/RiderProjects/Calculate/Calculate/bin/Debug/net8.0/Calculate.deps.json
+/Users/user/RiderProjects/Calculate/Calculate/bin/Debug/net8.0/Calculate.runtimeconfig.json
+/Users/user/RiderProjects/Calculate/Calculate/bin/Debug/net8.0/Calculate.dll
+/Users/user/RiderProjects/Calculate/Calculate/bin/Debug/net8.0/Calculate.pdb
+/Users/user/RiderProjects/Calculate/Calculate/obj/Debug/net8.0/Calculate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/RiderProjects/Calculate/Calculate/obj/Debug/net8.0/Calculate.AssemblyInfoInputs.cache
+/Users/user/RiderProjects/Calculate/Calculate/obj/Debug/net8.0/Calculate.AssemblyInfo.cs
+/Users/user/RiderProjects/Calculate/Calculate/obj/Debug/net8.0/Calculate.csproj.CoreCompileInputs.cache
+/Users/user/RiderProjects/Calculate/Calculate/obj/Debug/net8.0/Calculate.dll
+/Users/user/RiderProjects/Calculate/Calculate/obj/Debug/net8.0/refint/Calculate.dll
+/Users/user/RiderProjects/Calculate/Calculate/obj/Debug/net8.0/Calculate.pdb
+/Users/user/RiderProjects/Calculate/Calculate/obj/Debug/net8.0/Calculate.genruntimeconfig.cache
+/Users/user/RiderProjects/Calculate/Calculate/obj/Debug/net8.0/ref/Calculate.dll
