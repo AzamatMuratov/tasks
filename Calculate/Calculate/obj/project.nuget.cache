@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bxBZrDcjBuNXpRJCa0Kl2mwy3y4ARVUmcL8ZyJXTQEhFnZLxv1/Q+Q/XX1cLFqlFtjmaOqrGa26u280U3WRrEg==",
+  "dgSpecHash": "2HlHX/Ocyaa3M+A51QKeKFpNchMylf0335KOl4PXd0ruX44T8IaUDQErG/sMYUCPNAJ7lDK6zGLfCxgruTIEBA==",
   "success": true,
-  "projectFilePath": "/Users/user/RiderProjects/Calculate/Calculate/Calculate.csproj",
+  "projectFilePath": "/Users/user/RiderProjects/tasks/Calculate/Calculate/Calculate.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

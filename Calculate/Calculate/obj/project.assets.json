@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/RiderProjects/Calculate/Calculate/Calculate.csproj",
+      "projectUniqueName": "/Users/user/RiderProjects/tasks/Calculate/Calculate/Calculate.csproj",
       "projectName": "Calculate",
-      "projectPath": "/Users/user/RiderProjects/Calculate/Calculate/Calculate.csproj",
+      "projectPath": "/Users/user/RiderProjects/tasks/Calculate/Calculate/Calculate.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/RiderProjects/Calculate/Calculate/obj/",
+      "outputPath": "/Users/user/RiderProjects/tasks/Calculate/Calculate/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.nuget/NuGet/NuGet.Config"
