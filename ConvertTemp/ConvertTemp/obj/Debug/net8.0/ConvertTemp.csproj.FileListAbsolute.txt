@@ -1,0 +1,15 @@
+/Users/user/RiderProjects/tasks/ConvertTemp/ConvertTemp/bin/Debug/net8.0/ConvertTemp
+/Users/user/RiderProjects/tasks/ConvertTemp/ConvertTemp/bin/Debug/net8.0/ConvertTemp.deps.json
+/Users/user/RiderProjects/tasks/ConvertTemp/ConvertTemp/bin/Debug/net8.0/ConvertTemp.runtimeconfig.json
+/Users/user/RiderProjects/tasks/ConvertTemp/ConvertTemp/bin/Debug/net8.0/ConvertTemp.dll
+/Users/user/RiderProjects/tasks/ConvertTemp/ConvertTemp/bin/Debug/net8.0/ConvertTemp.pdb
+/Users/user/RiderProjects/tasks/ConvertTemp/ConvertTemp/obj/Debug/net8.0/ConvertTemp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/RiderProjects/tasks/ConvertTemp/ConvertTemp/obj/Debug/net8.0/ConvertTemp.AssemblyInfoInputs.cache
+/Users/user/RiderProjects/tasks/ConvertTemp/ConvertTemp/obj/Debug/net8.0/ConvertTemp.AssemblyInfo.cs
+/Users/user/RiderProjects/tasks/ConvertTemp/ConvertTemp/obj/Debug/net8.0/ConvertTemp.csproj.CoreCompileInputs.cache
+/Users/user/RiderProjects/tasks/ConvertTemp/ConvertTemp/obj/Debug/net8.0/ConvertTemp.sourcelink.json
+/Users/user/RiderProjects/tasks/ConvertTemp/ConvertTemp/obj/Debug/net8.0/ConvertTemp.dll
+/Users/user/RiderProjects/tasks/ConvertTemp/ConvertTemp/obj/Debug/net8.0/refint/ConvertTemp.dll
+/Users/user/RiderProjects/tasks/ConvertTemp/ConvertTemp/obj/Debug/net8.0/ConvertTemp.pdb
+/Users/user/RiderProjects/tasks/ConvertTemp/ConvertTemp/obj/Debug/net8.0/ConvertTemp.genruntimeconfig.cache
+/Users/user/RiderProjects/tasks/ConvertTemp/ConvertTemp/obj/Debug/net8.0/ref/ConvertTemp.dll
