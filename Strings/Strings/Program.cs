@@ -1,7 +1,7 @@
 ﻿bool CheckNull(string? word){
     if (word?.Length == 0)
     {
-        Console.WriteLine("Вы должно вводить что нибудь в каждую строку!");
+        Console.WriteLine("Вы должно вводить значение в каждую строку!");
         return true;
     }
     else
@@ -14,7 +14,9 @@ Console.WriteLine("Выберите какую операцию хотите п�
 Console.WriteLine("1 - Найти количество символов в строке.");
 Console.WriteLine("2 - Заменить подстроку.");
 Console.WriteLine("3 - Разделить строку на слова.");
-Console.WriteLine("4 - .");
+Console.WriteLine("4 - Вставка строки.");
+Console.WriteLine("5 - Смена регистра.");
+
 
 string? button = Console.ReadLine();
 switch (button)
@@ -61,7 +63,7 @@ switch (button)
             return;
         }
         string[]? words = inputText?.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-        Console.WriteLine("Количество слов которые вы написали " + words?.Length + " ,а именно:");
+        Console.WriteLine("Количество слов которые вы написали " + words?.Length + ", а именно:");
         if (words != null)
         {
             foreach (string s in words)
@@ -70,11 +72,98 @@ switch (button)
             }
         }
         break;
-    
+
+    // Вставка строки
     case "4":
-        
+        Console.Write("Введите слово: ");
+        string? word1 = Console.ReadLine();
+        if (CheckNull(word1))
+        {
+            return;
+        }
+        Console.WriteLine("В каком месте добавить?");
+        Console.WriteLine("1 - в начале");
+        Console.WriteLine("2 - в конце");
+        Console.WriteLine("3 - выбрать индекс");
+        string? choose = Console.ReadLine();
+        if (CheckNull(choose))
+        {
+            return;
+        }
+        Console.Write("Введите слово которое хотите добавить: ");
+        string? pasteWord1 = Console.ReadLine();
+        if (CheckNull(pasteWord1))
+        {
+            return;
+        }
+        switch (choose)
+        {
+            case "1":
+                if (pasteWord1 != null)
+                {
+                    word1 = word1?.Insert(0, pasteWord1);
+                    Console.WriteLine($"Результат после вставки строки - {word1}");
+                }
+                break;
+            case "2":
+                if (pasteWord1 != null)
+                {
+                    word1 = word1?.Insert(word1.Length - 1, pasteWord1);
+                    Console.WriteLine($"Результат после вставки строки - {word1}");
+                }
+                break;
+            case "3":
+                Console.Write("Начиная с какого индекса вставить текст - ");
+                var number = Console.ReadLine();
+                if (int.TryParse(number, out int result))
+                {
+                    if (result > word1?.Length)
+                    {
+                        Console.WriteLine("Неправильный индекс!");
+                        break;
+                    }
+                    if (pasteWord1 != null)
+                    {
+                        word1 = word1?.Insert(result, pasteWord1);
+                        Console.WriteLine($"Результат после вставки строки - {word1}");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Невозможно преобразовать строку в число.");
+                }
+                break;
+            default:
+                Console.WriteLine("Выберите валидное значение!");
+                break;
+        }
         break;
-        
+
+    case "5":
+        Console.WriteLine("Введите слово: ");
+        string? wordForRegister = Console.ReadLine();
+        if (CheckNull(wordForRegister))
+        {
+            return;
+        } 
+        Console.WriteLine("В какой регистр поменять слово?"); 
+        Console.WriteLine("1 - Верхний");
+        Console.WriteLine("2 - Нижний");
+    string? chooseBtn = Console.ReadLine();
+    switch (chooseBtn)
+    {
+        case "1":
+            Console.WriteLine(wordForRegister?.ToUpper());
+            break;
+        case "2":
+            Console.WriteLine(wordForRegister?.ToLower());
+            break;
+        default:
+            Console.WriteLine("Введите валидное значение!");
+            break;
+    }
+        break;
+    
         default:
             Console.WriteLine("Введите валидное значение!");
             break;
