@@ -49,7 +49,7 @@ class Program
                         }
                         else
                         {
-                            tasks[result1-1] = tasks[result1-1] + " - ВЫПОЛНЕНО";
+                            tasks[result1-1] += " - ВЫПОЛНЕНО";
                             Console.WriteLine("Задача успешно отмечена");
                             break;
                         }
