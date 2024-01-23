@@ -5,6 +5,7 @@ class MediaItem
     public string Title { get; set; }
     public string Author { get; set; }
     public int Year { get; set; }
+    
 
     public MediaItem(string title, string author, int year)
     {
@@ -40,7 +41,8 @@ class Book : MediaItem
     {
         base.DisplayInfo();
         Console.WriteLine($"Количество страниц: {PageCount}");
-        Console.WriteLine($"Издавтельство: {PublishingHouse}\n");
+        Console.WriteLine($"Издавтельство: {PublishingHouse}");
+        Console.WriteLine();
     }
 }
 
@@ -59,7 +61,8 @@ class Audiobook : MediaItem
     {
         base.DisplayInfo();
         Console.WriteLine($"Чтец: {Narrator}");
-        Console.WriteLine($"Медиа платформа: {MediaPlatform}\n");
+        Console.WriteLine($"Медиа платформа: {MediaPlatform}");
+        Console.WriteLine();
     }
 }
 
@@ -70,10 +73,13 @@ class Program
         Book book1 = new Book("Богатый папа, бедный папа", "Робертом Т. Кийосаки", 1997, 336,"Techpress Inc.");
         Audiobook audiobook1 = new Audiobook("Как завоёвывать друзей и оказывать влияние на людей", "Дейл Карнеги", 1935, "Игорь Дунаев","spotify");
         MediaItem mediabook = new Audiobook("Магия утра", "Хэл Элрод", 2009, "Сергей Гончаров", "apple music");
-        
+        MediaItem mediabook1 = new MediaItem("Гарри поттер", "ads", 1998);
+        mediabook1.DisplayInfo();
+        Console.WriteLine();
         mediabook.YearDifference();
         mediabook.DisplayInfo();
         book1.DisplayInfo();
+        audiobook1.YearDifference();
         audiobook1.DisplayInfo();
     }
 }
