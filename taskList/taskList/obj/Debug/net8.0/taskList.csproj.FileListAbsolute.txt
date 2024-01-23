@@ -1,0 +1,15 @@
+/Users/user/RiderProjects/tasks/taskList/taskList/bin/Debug/net8.0/taskList
+/Users/user/RiderProjects/tasks/taskList/taskList/bin/Debug/net8.0/taskList.deps.json
+/Users/user/RiderProjects/tasks/taskList/taskList/bin/Debug/net8.0/taskList.runtimeconfig.json
+/Users/user/RiderProjects/tasks/taskList/taskList/bin/Debug/net8.0/taskList.dll
+/Users/user/RiderProjects/tasks/taskList/taskList/bin/Debug/net8.0/taskList.pdb
+/Users/user/RiderProjects/tasks/taskList/taskList/obj/Debug/net8.0/taskList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/RiderProjects/tasks/taskList/taskList/obj/Debug/net8.0/taskList.AssemblyInfoInputs.cache
+/Users/user/RiderProjects/tasks/taskList/taskList/obj/Debug/net8.0/taskList.AssemblyInfo.cs
+/Users/user/RiderProjects/tasks/taskList/taskList/obj/Debug/net8.0/taskList.csproj.CoreCompileInputs.cache
+/Users/user/RiderProjects/tasks/taskList/taskList/obj/Debug/net8.0/taskList.sourcelink.json
+/Users/user/RiderProjects/tasks/taskList/taskList/obj/Debug/net8.0/taskList.dll
+/Users/user/RiderProjects/tasks/taskList/taskList/obj/Debug/net8.0/refint/taskList.dll
+/Users/user/RiderProjects/tasks/taskList/taskList/obj/Debug/net8.0/taskList.pdb
+/Users/user/RiderProjects/tasks/taskList/taskList/obj/Debug/net8.0/taskList.genruntimeconfig.cache
+/Users/user/RiderProjects/tasks/taskList/taskList/obj/Debug/net8.0/ref/taskList.dll
