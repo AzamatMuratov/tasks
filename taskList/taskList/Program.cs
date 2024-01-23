@@ -17,7 +17,7 @@ class Program
             Console.WriteLine("5. Выход");
             
             
-            string choice = Console.ReadLine();
+            string? choice = Console.ReadLine();
             switch (choice)
             {
                 case "1":
@@ -56,9 +56,10 @@ class Program
                     }
                     else
                     {
-                        Console.WriteLine("Невозможно преобразовать строку в число.");
+                        Console.WriteLine("Неверный ввод!");
+                        break;
                     }
-                    return;
+                    
                 case "4":
                     if (tasks.Count == 0)
                     {
@@ -84,9 +85,10 @@ class Program
                     }
                     else
                     {
-                        Console.WriteLine("Невозможно преобразовать строку в число.");
+                        Console.WriteLine("Неверный ввод!");
+                        break;
                     }
-                    return;
+                    
                 case "5": 
                     return;
                 default:
@@ -99,7 +101,11 @@ class Program
     static void AddTask()
     {
         Console.Write("Введите новую задачу: ");
-        string task = Console.ReadLine();
+        string? task = Console.ReadLine();
+        if (CheckNull(task) || task == null)
+        {
+            return;
+        }
         tasks.Add(task);
         Console.WriteLine("Задача добавлена успешно!");
     }
@@ -115,6 +121,17 @@ class Program
         for (int i = 0; i < tasks.Count; i++)
         {
             Console.WriteLine($"{i + 1}. {tasks[i]}");
+        }
+    }
+    static bool CheckNull(string? word){
+        if (word?.Length == 0)
+        {
+            Console.WriteLine("Вы должно вводить значение в каждую строку!");
+            return true;
+        }
+        else
+        {
+            return false;
         }
     }
 }
