@@ -1,0 +1,15 @@
+/Users/user/RiderProjects/tasks/MultThreads/MultThreads/bin/Debug/net8.0/MultThreads
+/Users/user/RiderProjects/tasks/MultThreads/MultThreads/bin/Debug/net8.0/MultThreads.deps.json
+/Users/user/RiderProjects/tasks/MultThreads/MultThreads/bin/Debug/net8.0/MultThreads.runtimeconfig.json
+/Users/user/RiderProjects/tasks/MultThreads/MultThreads/bin/Debug/net8.0/MultThreads.dll
+/Users/user/RiderProjects/tasks/MultThreads/MultThreads/bin/Debug/net8.0/MultThreads.pdb
+/Users/user/RiderProjects/tasks/MultThreads/MultThreads/obj/Debug/net8.0/MultThreads.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/RiderProjects/tasks/MultThreads/MultThreads/obj/Debug/net8.0/MultThreads.AssemblyInfoInputs.cache
+/Users/user/RiderProjects/tasks/MultThreads/MultThreads/obj/Debug/net8.0/MultThreads.AssemblyInfo.cs
+/Users/user/RiderProjects/tasks/MultThreads/MultThreads/obj/Debug/net8.0/MultThreads.csproj.CoreCompileInputs.cache
+/Users/user/RiderProjects/tasks/MultThreads/MultThreads/obj/Debug/net8.0/MultThreads.sourcelink.json
+/Users/user/RiderProjects/tasks/MultThreads/MultThreads/obj/Debug/net8.0/MultThreads.dll
+/Users/user/RiderProjects/tasks/MultThreads/MultThreads/obj/Debug/net8.0/refint/MultThreads.dll
+/Users/user/RiderProjects/tasks/MultThreads/MultThreads/obj/Debug/net8.0/MultThreads.pdb
+/Users/user/RiderProjects/tasks/MultThreads/MultThreads/obj/Debug/net8.0/MultThreads.genruntimeconfig.cache
+/Users/user/RiderProjects/tasks/MultThreads/MultThreads/obj/Debug/net8.0/ref/MultThreads.dll
