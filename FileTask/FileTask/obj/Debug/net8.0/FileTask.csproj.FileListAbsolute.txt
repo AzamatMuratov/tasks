@@ -1,0 +1,15 @@
+/Users/user/RiderProjects/tasks/FileTask/FileTask/bin/Debug/net8.0/FileTask
+/Users/user/RiderProjects/tasks/FileTask/FileTask/bin/Debug/net8.0/FileTask.deps.json
+/Users/user/RiderProjects/tasks/FileTask/FileTask/bin/Debug/net8.0/FileTask.runtimeconfig.json
+/Users/user/RiderProjects/tasks/FileTask/FileTask/bin/Debug/net8.0/FileTask.dll
+/Users/user/RiderProjects/tasks/FileTask/FileTask/bin/Debug/net8.0/FileTask.pdb
+/Users/user/RiderProjects/tasks/FileTask/FileTask/obj/Debug/net8.0/FileTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/RiderProjects/tasks/FileTask/FileTask/obj/Debug/net8.0/FileTask.AssemblyInfoInputs.cache
+/Users/user/RiderProjects/tasks/FileTask/FileTask/obj/Debug/net8.0/FileTask.AssemblyInfo.cs
+/Users/user/RiderProjects/tasks/FileTask/FileTask/obj/Debug/net8.0/FileTask.csproj.CoreCompileInputs.cache
+/Users/user/RiderProjects/tasks/FileTask/FileTask/obj/Debug/net8.0/FileTask.sourcelink.json
+/Users/user/RiderProjects/tasks/FileTask/FileTask/obj/Debug/net8.0/FileTask.dll
+/Users/user/RiderProjects/tasks/FileTask/FileTask/obj/Debug/net8.0/refint/FileTask.dll
+/Users/user/RiderProjects/tasks/FileTask/FileTask/obj/Debug/net8.0/FileTask.pdb
+/Users/user/RiderProjects/tasks/FileTask/FileTask/obj/Debug/net8.0/FileTask.genruntimeconfig.cache
+/Users/user/RiderProjects/tasks/FileTask/FileTask/obj/Debug/net8.0/ref/FileTask.dll
